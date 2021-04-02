@@ -1,0 +1,140 @@
+body{
+    text-align: center;
+    margin-top: 10%;
+    background-color: rgba(var(--b3f,250,250,250),1);
+    font-family: 'Roboto', sans-serif;
+}
+.instagram {
+    margin-bottom: 1em;
+}
+.usuario {
+    margin-right: 3em;
+    margin-left: 3em;
+    padding: 9px 0 7px 8px;
+    border-radius: 3px;
+    width: 15rem;
+    background-color:  rgba(var(--b3f,250,250,250),1);
+    border-width: 1px;
+    border-color: #BEBEBE;
+}
+.senha {
+    padding: 9px 0 7px 8px;
+    border-radius: 3px;
+    width: 15rem;
+    background-color:  rgba(var(--b3f,250,250,250),1);
+    border-width: 1px;
+    border-color: #BEBEBE;
+
+}
+
+.entrar {
+    font-weight: bolder;
+    color: white;
+    margin: 0px;
+}
+
+.button {
+    margin-bottom: 1em;
+    padding: 0.5em 8em 0.5em 8em;
+    border-radius: 3px;
+    background-color: #0095f6;
+    border: none;
+}
+.semconta {
+    display: block;
+    border: solid;
+    border-color: #BEBEBE;
+    margin-top: 1em;
+    margin-right: 49em;
+    margin-left: 49em;
+    background-color: white;
+    border-width: 1px;
+}
+
+.ou {
+    display: inline-block;
+    margin-top: 5px;
+    font-weight: bolder;
+    opacity: 1;
+}
+
+.tracoes{
+    background-color: rgba(var(--b38,219,219,219),1);
+    height: 1px;
+    display: block;
+    width: 5em;
+    margin-left: 2em;
+    position: relative;
+    top: 1px;
+}
+
+.tracodi {
+    background-color: rgba(var(--b38,219,219,219),1);
+    height: 1px;
+    flex-shrink: 1;
+    flex-grow: 1;
+    width: 5em;
+    margin-left: 12em;
+    position: relative;
+    top: 0.04em;
+
+}
+
+.cadastrese{
+    color: #3b5998;
+    font-weight: bolder;
+    text-decoration: none;
+}
+
+.esqueceu_senha {
+    margin-top: 0;
+    font-size: 12px;
+    color: #3b5998;
+    font-weight: bolder ;
+}
+
+.botaoface {
+    background-color: Transparent;
+    background-repeat:no-repeat;
+    border: none;
+    cursor:pointer;
+    overflow: hidden;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.facelogo{
+    max-width:15px;
+    max-height:15px;
+    float: left;
+    margin-right: 5px;
+}
+
+.face{
+    font-weight: bolder;
+    color: #3b5998;
+}
+
+.obtenha {
+    font-size: 14px;
+    margin-top: 2.3em;
+}
+
+.apple{
+    max-width: 8em;
+    max-height: 8em;
+}
+
+.google{
+    max-width: 8em;
+    max-height: 8em;
+}
+
+main {
+    border: solid;
+    display: inline-block;
+    border-width: 1px;
+    border-color: #BEBEBE;
+    background-color: white;
+    margin-top: -10em;
+}
